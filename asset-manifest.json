@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clock-break/static/css/main.095ea150.css",
+    "main.js": "/clock-break/static/js/main.60f5d3e2.js",
+    "static/js/787.3811b3e7.chunk.js": "/clock-break/static/js/787.3811b3e7.chunk.js",
+    "index.html": "/clock-break/index.html",
+    "main.095ea150.css.map": "/clock-break/static/css/main.095ea150.css.map",
+    "main.60f5d3e2.js.map": "/clock-break/static/js/main.60f5d3e2.js.map",
+    "787.3811b3e7.chunk.js.map": "/clock-break/static/js/787.3811b3e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.095ea150.css",
+    "static/js/main.60f5d3e2.js"
+  ]
+}
